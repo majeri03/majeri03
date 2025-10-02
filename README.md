@@ -1,67 +1,194 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/majeri03/majeri03/main/banner.gif" alt="Professional Banner">
-</p>
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0066CC&center=true&vCenter=true&width=550&lines=Welcome+to+My+Digital+Space;I'm+Majeri+-+Full-Stack+Developer;Bridging+Ideas+into+Reality" alt="Typing SVG" />
-  </a>
-</h1>
+# 『 MAJERI 』
 
-<p align="center">
-  Seorang Full-Stack Developer yang berorientasi pada hasil dan bersemangat dalam merancang, mengembangkan, dan menerapkan solusi perangkat lunak yang inovatif. Dengan keahlian yang membentang dari pengembangan **Web & Mobile** hingga eksplorasi **AI/Machine Learning**, saya berdedikasi untuk menulis kode yang bersih, efisien, dan dapat diskalakan.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0066FF&height=200&section=header&text=Full-Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Bridging%20Ideas%20Into%20Reality&descAlignY=55&descAlign=50" width="100%"/>
 
----
+</div>
 
-<h3 align="center">My Professional Tech Stack</h3>
+<div align="center">
 
-<p align="center">
-  <strong>Frontend:</strong><br>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="background-color:white; border-radius:5px;"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vitejs/vitejs-original.svg" alt="Vite.js" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-</p>
-<p align="center">
-  <strong>Backend & Mobile:</strong><br>
-  <a href="https://codeigniter.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-</p>
-<p align="center">
-  <strong>AI / Machine Learning:</strong><br>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Digital+Space+%E2%9C%A8;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Building+Scalable+Solutions+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🎯 Results-Driven Developer | 💻 Clean Code Enthusiast     ║
+║  🌐 Web & Mobile Expert | 🧠 AI/ML Passionate               ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-### 🚀 Proyek Unggulan
-- **[Nama Proyek 1](https://link-ke-proyek-atau-github-repo.com)** - Deskripsi singkat dan menarik tentang proyek ini dan tujuannya.
-- **[Nama Proyek 2](https://link-ke-proyek-atau-github-repo.com)** - Deskripsi singkat dan menarik tentang proyek ini dan tujuannya.
-- **[Nama Proyek 3](https://link-ke-proyek-atau-github-repo.com)** - Deskripsi singkat dan menarik tentang proyek ini dan tujuannya.
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+### 『 Frontend Development 』
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,js,ts,html,css,tailwind,bootstrap&theme=dark" />
+</p>
+
+### 『 Backend & Mobile 』
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express,firebase,mysql,postgres,mongodb&theme=dark" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" />
+  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="48" height="48"/>
+</p>
+
+### 『 AI / Machine Learning 』
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48" height="48"/>
+</p>
+
+### 『 Tools & Platforms 』
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&theme=dark" />
+</p>
+
+</div>
 
 ---
 
-<h3 align="center">GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majeri03&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Majeri's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majeri03&layout=compact&langs_count=8&theme=nord" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/majeri03/majeri03/main/dist/github-snake-dark.svg" alt="Snake Contribution Graph">
-</p>
+## 🚀 Featured Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎨 Project Showcase 1
+**Innovative Web Application**
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-0066FF?style=for-the-badge&logo=github)](https://github.com/majeri03)
+
+`React` `Next.js` `TailwindCSS` `Firebase`
+
+> Building modern, responsive web applications with cutting-edge technologies and best practices.
+
+</td>
+<td width="50%">
+
+### 📱 Project Showcase 2
+**Mobile-First Solution**
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-0066FF?style=for-the-badge&logo=github)](https://github.com/majeri03)
+
+`React Native` `Firebase` `Node.js`
+
+> Cross-platform mobile applications delivering seamless user experiences.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Project Showcase 3
+**AI/ML Integration**
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-0066FF?style=for-the-badge&logo=github)](https://github.com/majeri03)
+
+`TensorFlow` `Python` `Scikit-Learn`
+
+> Implementing machine learning models to solve real-world problems.
+
+</td>
+<td width="50%">
+
+### 💼 Project Showcase 4
+**Full-Stack Platform**
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-0066FF?style=for-the-badge&logo=github)](https://github.com/majeri03)
+
+`Vue.js` `CodeIgniter` `MySQL`
+
+> Complete end-to-end solutions with robust backend architecture.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/[username-linkedin-anda]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:[email-anda@gmail.com]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=majeri03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&icon_color=00C9FF&text_color=FFFFFF&ring_color=0066FF" alt="Majeri's Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=majeri03&theme=tokyonight&hide_border=true&background=0D1117&ring=0066FF&fire=00C9FF&currStreakLabel=00C9FF" alt="Majeri's Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majeri03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=majeri03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0066FF&line=00C9FF&point=FFFFFF" alt="Contribution Graph"/>
+
+</div>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/majeri03/majeri03/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/majeri03/majeri03/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/majeri03/majeri03/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0066FF)](https://linkedin.com/in/majeri03)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0066FF)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=0066FF)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0066FF)](https://twitter.com/majeri03)
+
+</div>
+
+<div align="center">
+
+## 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=0066FF)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎵 Currently Vibing To
+
+[![Spotify](https://novatorem-majeri03.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0066FF&height=120&section=footer" width="100%"/>
+
+**✨ Thanks for visiting! ✨**
+
+![Visitor Count](https://profile-counter.glitch.me/majeri03/count.svg)
+
+</div>
