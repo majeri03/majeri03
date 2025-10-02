@@ -1,8 +1,7 @@
 <div align="center">
 
-# 『 MAJERI 』
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0066FF&height=200&section=header&text=Full-Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Bridging%20Ideas%20Into%20Reality&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0066FF&height=200&section=header&text=MAJERI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Bridging%20Ideas%20Into%20Reality&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
 
