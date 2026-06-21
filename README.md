@@ -61,68 +61,7 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
 
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎨 Project Showcase 1
-**Innovative Web Application**
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-0066FF?style=for-the-badge&logo=github)](https://github.com/majeri03)
-
-`React` `Next.js` `TailwindCSS` `Firebase`
-
-> Building modern, responsive web applications with cutting-edge technologies and best practices.
-
-</td>
-<td width="50%">
-
-### 📱 Project Showcase 2
-**Mobile-First Solution**
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-0066FF?style=for-the-badge&logo=github)](https://github.com/majeri03)
-
-`React Native` `Firebase` `Node.js`
-
-> Cross-platform mobile applications delivering seamless user experiences.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Project Showcase 3
-**AI/ML Integration**
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-0066FF?style=for-the-badge&logo=github)](https://github.com/majeri03)
-
-`TensorFlow` `Python` `Scikit-Learn`
-
-> Implementing machine learning models to solve real-world problems.
-
-</td>
-<td width="50%">
-
-### 💼 Project Showcase 4
-**Full-Stack Platform**
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-0066FF?style=for-the-badge&logo=github)](https://github.com/majeri03)
-
-`Vue.js` `CodeIgniter` `MySQL`
-
-> Complete end-to-end solutions with robust backend architecture.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 📊 GitHub Analytics
 
