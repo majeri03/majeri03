@@ -8,7 +8,7 @@
 <h1 align="center">Majeri</h1>
 
 <p align="center">
-  <strong>Web Developer | Full-Stack & AI Explorer</strong><br>
+  <strong>Software Engineer | Full-Stack & AI Explorer</strong><br>
   Makassar, Indonesia
 </p>
 
