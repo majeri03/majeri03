@@ -1,129 +1,171 @@
+<!-- Spider-Man Animated Vector SVG Web Banner -->
 <div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0066FF&height=200&section=header&text=MAJERI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Bridging%20Ideas%20Into%20Reality&descAlignY=55&descAlign=50" width="100%"/>
-
+  <img src="spiderman-web.svg" width="100%" alt="Spider-Man Vector Web Animation" />
+  <br>
+  <p><em>"With great power comes great code."</em></p>
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Digital+Space+%E2%9C%A8;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Building+Scalable+Solutions+%F0%9F%92%A1)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
+<h1 align="center">Majeri</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/majeri03/majeri03/main/banner.gif" alt="Professional Banner">
+  <strong>Web Developer | Full-Stack & AI Explorer</strong><br>
+  Makassar, Indonesia
 </p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/majeri-majeri-881840246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://g.dev/jerytzed"><img src="https://img.shields.io/badge/Google_Dev-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Dev" /></a>
+  <a href="https://www.skills.google/public_profiles/5def516f-808b-49e2-afc2-7d593d688448"><img src="https://img.shields.io/badge/Google_Skills-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Skills Profile" /></a>
+  <a href="https://github.com/majeri03"><img src="https://img.shields.io/badge/GitHub_Main-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Main" /></a>
+  <a href="https://github.com/clientidprojectj-cloud"><img src="https://img.shields.io/badge/GitHub_Projects-24292E?style=flat-square&logo=github&logoColor=white" alt="GitHub Second Account" /></a>
+  <a href="https://open.spotify.com/playlist/3GiISkQclMQzDBNyXZokc4?si=vJKtzdq7Q6Cozz2v5XL2pA&utm_source=copy-link&pt=8d59be8ceb75199bfba025c0a7ee80c7&pi=25d_HXekT4OFG"><img src="https://img.shields.io/badge/Spotify_Playlist-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Playlist" /></a>
+</p>
 
----
+<hr>
 
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td width="50%" style="padding-right: 15px;">
 
-## 🛠️ Tech Arsenal
+<h3>Profile</h3>
+<hr>
+<p>
+Software Engineer yang berfokus pada pemecahan masalah secara praktis. Berpengalaman dalam pengembangan aplikasi web, otomasi workflow (Google Apps Script & Cloud APIs), serta eksplorasi Machine Learning.
+</p>
 
-### 『 Frontend Development 』
+<br>
+
+<h3>Experience & Internship</h3>
+<hr>
+<p>
+<strong>Web Development Intern</strong> — Bosowa<br>
+<em>Agustus 2025 – November 2025</em>
+</p>
+<ul>
+  <li>Mengembangkan dan mengelola fitur-fitur pada aplikasi web internal perusahaan.</li>
+  <li>Berkolaborasi dalam tim teknis untuk memastikan performa dan keandalan sistem web.</li>
+</ul>
+
+<br>
+
+<h3>Featured Projects</h3>
+<hr>
+<p>
+<strong>Sistem Antrian Viola (BPJS Kesehatan Makassar)</strong><br>
+Repository: <a href="https://github.com/clientidprojectj-cloud/antrian-viola-bpjskesehatan-makassar">antrian-viola-bpjskesehatan-makassar</a>
+</p>
+<ul>
+  <li>Membangun sistem antrian digital terintegrasi untuk BPJS Kesehatan Makassar.</li>
+  <li>Memanfaatkan infrastruktur serverless gratis dengan mengombinasikan <strong>Google Sheets API</strong> dan <strong>Google Apps Script</strong> untuk manajemen data antrian secara real-time tanpa biaya server.</li>
+</ul>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,js,ts,html,css,tailwind,bootstrap&theme=dark" />
+<strong>Client Projects Account</strong><br>
+GitHub: <a href="https://github.com/clientidprojectj-cloud">clientidprojectj-cloud</a>
+</p>
+<ul>
+  <li>Akun sekunder yang digunakan untuk pengelolaan repositori proyek klien dan sistem otomasi.</li>
+</ul>
+
+<br>
+
+<h3>Social & Links</h3>
+<hr>
+<ul>
+  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/majeri-majeri-881840246">linkedin.com/in/majeri-majeri-881840246</a></li>
+  <li><strong>Google Developer</strong>: <a href="https://g.dev/jerytzed">g.dev/jerytzed</a></li>
+  <li><strong>Google Skills Profile</strong>: <a href="https://www.skills.google/public_profiles/5def516f-808b-49e2-afc2-7d593d688448">skills.google Profile</a></li>
+  <li><strong>GitHub Main</strong>: <a href="https://github.com/majeri03">github.com/majeri03</a></li>
+  <li><strong>GitHub Projects</strong>: <a href="https://github.com/clientidprojectj-cloud">github.com/clientidprojectj-cloud</a></li>
+</ul>
+
+</td>
+<td width="50%" style="padding-left: 15px;">
+
+<h3>Skills</h3>
+<hr>
+
+<p><strong>Languages</strong><br>
+<code>JavaScript</code> • <code>TypeScript</code> • <code>Python</code> • <code>HTML5</code> • <code>CSS3</code>
 </p>
 
-### 『 Backend & Mobile 』
+<p><strong>Frontend</strong><br>
+<code>React</code> • <code>Next.js</code> • <code>Vue.js</code> • <code>Vite</code> • <code>Tailwind CSS</code>
+</p>
 
+<p><strong>Backend & Automation</strong><br>
+<code>Node.js</code> • <code>Express</code> • <code>Google Apps Script</code> • <code>Google Sheets API</code> • <code>Firebase</code> • <code>MySQL</code> • <code>PostgreSQL</code>
+</p>
+
+<p><strong>AI & Machine Learning</strong><br>
+<code>Python</code> • <code>TensorFlow</code> • <code>Scikit-Learn</code>
+</p>
+
+<p><strong>Tools & Environment</strong><br>
+<code>Git</code> • <code>GitHub</code> • <code>Docker</code> • <code>Linux</code> • <code>VS Code</code> • <code>Figma</code>
+</p>
+
+<br>
+
+<h3>Certificates & Badges</h3>
+<hr>
+<ul>
+  <li><strong>Google Developer Profile</strong>: <a href="https://g.dev/jerytzed">g.dev/jerytzed</a></li>
+  <li><strong>Google Public Skills Badges</strong>: <a href="https://www.skills.google/public_profiles/5def516f-808b-49e2-afc2-7d593d688448">Public Skills Profile</a></li>
+</ul>
+
+<br>
+
+<h3>Strengths</h3>
+<hr>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,express,firebase,mysql,postgres,mongodb&theme=dark" />
+  <img src="https://img.shields.io/badge/Web_Development-333333?style=flat-square&logoColor=white" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-34A853?style=flat-square&logo=google&logoColor=white" alt="Google Apps Script" />
+  <img src="https://img.shields.io/badge/System_Automation-555555?style=flat-square" alt="System Automation" />
+  <img src="https://img.shields.io/badge/Full--Stack_JS%2FTS-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Full-Stack JS/TS" />
+  <img src="https://img.shields.io/badge/AI%2FML_Integration-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI/ML Integration" />
+  <img src="https://img.shields.io/badge/Problem_Solving-222222?style=flat-square" alt="Problem Solving" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" />
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="48" height="48"/>
-</p>
+<br>
 
-### 『 AI / Machine Learning 』
+<h3>Current Vibe</h3>
+<hr>
+<p>🎵 <strong>Spotify Playlist</strong>: <a href="https://open.spotify.com/playlist/3GiISkQclMQzDBNyXZokc4?si=vJKtzdq7Q6Cozz2v5XL2pA&utm_source=copy-link&pt=8d59be8ceb75199bfba025c0a7ee80c7&pi=25d_HXekT4OFG">Dengarkan di Spotify</a></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48" height="48"/>
-</p>
+</td>
+</tr>
+</table>
 
-### 『 Tools & Platforms 』
+<hr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&theme=dark" />
-</p>
-
-</div>
-
----
+<h3 align="center">GitHub Statistics</h3>
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=majeri03&show_icons=true&theme=transparent&hide_border=true" alt="Majeri Stats"/>
 
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=majeri03&theme=transparent&hide_border=true" alt="Majeri Streak"/>
 
-
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=majeri03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&icon_color=00C9FF&text_color=FFFFFF&ring_color=0066FF" alt="Majeri's Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=majeri03&theme=tokyonight&hide_border=true&background=0D1117&ring=0066FF&fire=00C9FF&currStreakLabel=00C9FF" alt="Majeri's Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majeri03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=majeri03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0066FF&line=00C9FF&point=FFFFFF" alt="Contribution Graph"/>
-
+  <br><br>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=majeri03&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+  
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=majeri03&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </div>
 
+<br>
+
+<h3 align="center">Contribution Grid</h3>
+
 <div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/majeri03/majeri03/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/majeri03/majeri03/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/majeri03/majeri03/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/majeri03/majeri03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/majeri03/majeri03/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/majeri03/majeri03/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
----
+<br><br>
 
 <div align="center">
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0066FF)](https://linkedin.com/in/majeri03)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0066FF)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=0066FF)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0066FF)](https://twitter.com/majeri03)
-
-</div>
-
-<div align="center">
-
-## 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=0066FF)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-majeri03.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0066FF&height=120&section=footer" width="100%"/>
-
-**✨ Thanks for visiting! ✨**
-
-![Visitor Count](https://profile-counter.glitch.me/majeri03/count.svg)
-
+  Majeri • <a href="https://github.com/majeri03">github.com/majeri03</a> • <a href="https://github.com/clientidprojectj-cloud">github.com/clientidprojectj-cloud</a>
 </div>

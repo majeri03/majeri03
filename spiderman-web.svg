@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="220">
+  <defs>
+    <!-- Linear Gradients -->
+    <linearGradient id="spiderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E53E3E" />
+      <stop offset="100%" stop-color="#9B2C2C" />
+    </linearGradient>
+    
+    <linearGradient id="webGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E53E3E" stop-opacity="0" />
+      <stop offset="15%" stop-color="#E53E3E" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#FC8181" stop-opacity="1" />
+      <stop offset="85%" stop-color="#E53E3E" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#E53E3E" stop-opacity="0" />
+    </linearGradient>
+
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E53E3E" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#E53E3E" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    @keyframes dashDraw {
+      0% {
+        stroke-dashoffset: 800;
+        opacity: 0.3;
+      }
+      50% {
+        stroke-dashoffset: 0;
+        opacity: 1;
+      }
+      100% {
+        stroke-dashoffset: -800;
+        opacity: 0.3;
+      }
+    }
+
+    @keyframes spiderPulse {
+      0%, 100% {
+        transform: scale(1);
+        filter: drop-shadow(0 0 2px rgba(229, 62, 62, 0.4));
+      }
+      50% {
+        transform: scale(1.08);
+        filter: drop-shadow(0 0 14px rgba(229, 62, 62, 0.95));
+      }
+    }
+
+    @keyframes nodeGlow {
+      0%, 100% { r: 2px; opacity: 0.3; }
+      50% { r: 4px; opacity: 1; fill: #FFFFFF; }
+    }
+
+    .web-line {
+      stroke: url(#webGradient);
+      stroke-width: 1.8;
+      fill: none;
+      stroke-dasharray: 600;
+      animation: dashDraw 5s linear infinite;
+    }
+
+    .web-radial {
+      stroke: #E53E3E;
+      stroke-opacity: 0.3;
+      stroke-width: 1;
+      fill: none;
+    }
+
+    .spider-emblem {
+      transform-origin: 450px 110px;
+      animation: spiderPulse 3s ease-in-out infinite;
+    }
+
+    .node {
+      fill: #E53E3E;
+      animation: nodeGlow 2.5s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Background Center Glow -->
+  <circle cx="450" cy="110" r="110" fill="url(#centerGlow)" />
+
+  <!-- Radial Web Structure -->
+  <g class="web-radial">
+    <!-- Web Rings -->
+    <path d="M 450,110 m -30,0 a 30,30 0 1,0 60,0 a 30,30 0 1,0 -60,0" stroke-dasharray="4,4" />
+    <path d="M 450,110 m -70,0 a 70,48 0 1,0 140,0 a 70,48 0 1,0 -140,0" />
+    <path d="M 450,110 m -125,0 a 125,80 0 1,0 250,0 a 125,80 0 1,0 -250,0" stroke-dasharray="6,4" />
+    <path d="M 450,110 m -200,0 a 200,110 0 1,0 400,0 a 200,110 0 1,0 -400,0" opacity="0.6" />
+    <path d="M 450,110 m -300,0 a 300,140 0 1,0 600,0 a 300,140 0 1,0 -600,0" opacity="0.3" />
+
+    <!-- Web Spokes -->
+    <line x1="30" y1="110" x2="870" y2="110" />
+    <line x1="100" y1="15" x2="800" y2="205" />
+    <line x1="100" y1="205" x2="800" y2="15" />
+    <line x1="230" y1="8" x2="670" y2="212" />
+    <line x1="230" y1="212" x2="670" y2="8" />
+  </g>
+
+  <!-- Animated Web Lines -->
+  <path d="M 30,110 Q 240,75 450,110 Q 660,145 870,110" class="web-line" />
+  <path d="M 100,15 Q 280,95 450,110 Q 620,125 800,205" class="web-line" style="animation-delay: -1.6s;" />
+  <path d="M 100,205 Q 280,125 450,110 Q 620,95 800,15" class="web-line" style="animation-delay: -3.2s;" />
+
+  <!-- Animated Web Intersection Nodes -->
+  <circle cx="380" cy="110" r="3" class="node" style="animation-delay: 0s;" />
+  <circle cx="520" cy="110" r="3" class="node" style="animation-delay: 0.6s;" />
+  <circle cx="450" cy="62" r="3" class="node" style="animation-delay: 1.2s;" />
+  <circle cx="450" cy="158" r="3" class="node" style="animation-delay: 1.8s;" />
+  <circle cx="325" cy="62" r="3" class="node" style="animation-delay: 0.9s;" />
+  <circle cx="575" cy="158" r="3" class="node" style="animation-delay: 1.5s;" />
+
+  <!-- Minimalist Vector Spider Emblem -->
+  <g class="spider-emblem">
+    <!-- Head & Body -->
+    <path d="M 450,102 C 446,95 444,87 450,81 C 456,87 454,95 450,102 Z" fill="url(#spiderGradient)" />
+    <path d="M 450,100 C 442,108 440,127 450,137 C 460,127 458,108 450,100 Z" fill="url(#spiderGradient)" />
+
+    <!-- Legs (Top Left) -->
+    <path d="M 448,89 Q 428,68 408,62 Q 424,76 446,93" fill="none" stroke="url(#spiderGradient)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 448,93 Q 418,78 392,83 Q 416,90 446,97" fill="none" stroke="url(#spiderGradient)" stroke-width="2.5" stroke-linecap="round" />
+
+    <!-- Legs (Top Right) -->
+    <path d="M 452,89 Q 472,68 492,62 Q 476,76 454,93" fill="none" stroke="url(#spiderGradient)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 452,93 Q 482,78 508,83 Q 484,90 454,97" fill="none" stroke="url(#spiderGradient)" stroke-width="2.5" stroke-linecap="round" />
+
+    <!-- Legs (Bottom Left) -->
+    <path d="M 448,105 Q 414,110 388,132 Q 410,121 446,110" fill="none" stroke="url(#spiderGradient)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 448,112 Q 424,127 402,158 Q 420,140 447,118" fill="none" stroke="url(#spiderGradient)" stroke-width="2.5" stroke-linecap="round" />
+
+    <!-- Legs (Bottom Right) -->
+    <path d="M 452,105 Q 486,110 512,132 Q 490,121 454,110" fill="none" stroke="url(#spiderGradient)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 452,112 Q 476,127 498,158 Q 480,140 453,118" fill="none" stroke="url(#spiderGradient)" stroke-width="2.5" stroke-linecap="round" />
+  </g>
+</svg>
