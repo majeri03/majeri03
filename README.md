@@ -38,7 +38,7 @@ Software Engineer yang berfokus pada pemecahan masalah secara praktis. Berpengal
 <h3>Experience & Internship</h3>
 <hr>
 <p>
-<strong>Web Development Intern</strong> — Bosowa<br>
+<strong>Web Development Intern</strong> — <a href="https://bosowatransportation.id/">Bosowa Transportation</a><br>
 <em>Agustus 2025 – November 2025</em>
 </p>
 <ul>
